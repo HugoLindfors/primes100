@@ -4,7 +4,7 @@
     text-align: center;
 }
 
-.primes {
+.primes, .devisors {
     text-align: center;
     margin-top: 5vh;
     display: grid;
